@@ -5,7 +5,7 @@ import logImg from './log.jpg'
 import woodImg from './wood.png'
 
 
-const images = {
+export {
     dirtImg,
     glassImg,
     grassImg,
@@ -14,4 +14,4 @@ const images = {
 }
 
 
-export default images
+// export default images
